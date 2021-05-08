@@ -1,7 +1,7 @@
 <h3 align="center">
+     <img src="assets/logo.svg" />
+     <hr />
     <img src="assets/plantmanager-preview.png">
-    <br />
-    <img src="assets/logo.svg" />
 </h3>   
 
 <h3 align="center">

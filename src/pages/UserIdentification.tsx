@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     borderColor: colors.gray,
     color: colors.heading,
     width: "100%",
-    fontSitze: 18,
+    fontSize: 18,
     marginTop: 50,
     padding: 10,
     textAlign: "center",

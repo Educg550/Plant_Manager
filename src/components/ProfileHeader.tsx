@@ -11,7 +11,7 @@ export function ProfileHeader() {
     <View style={styles.container}>
       <View>
         <Text style={styles.greeting}>Olá,</Text>
-        <Text style={styles.userName}>Educg550</Text>
+        <Text style={styles.userName}>Eduardo</Text>
       </View>
 
       <Image source={userImg} style={styles.image} />

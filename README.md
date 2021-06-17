@@ -30,11 +30,13 @@ cd Plant_Manager
 # Install dependencies
 yarn
 
+
+
 # Start the project
 expo start
 ```
 
-Assim que o servidor for iniciado, ele será hospedado no seguinte endereço: `localhost:3000`
+Assim que o servidor for iniciado, ele será hospedado no seguinte endereço: `localhost:19002`
 <br>
 Basta inserir este mesmo endereço no seu navegador de preferência e testar a aplicação.
 <br>

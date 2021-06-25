@@ -20,7 +20,7 @@ import colors from "../styles/colors";
 import fonts from "../styles/fonts";
 import { isBefore } from "date-fns";
 import { format } from "date-fns/esm";
-import { savePlant, loadPlant, PlantProps } from "../libs/storage";
+import { savePlant, PlantProps } from "../libs/storage";
 
 interface Params {
   plant: PlantProps;
